@@ -90,7 +90,7 @@ const presentItem = (item,list) => {
 };
 
 
-
+console.log (contains('Phone', '', presentItem));
 
 /* STRETCH PROBLEM */
 
